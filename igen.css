@@ -38,10 +38,10 @@
    z-index: 1000;
    position: fixed;
    display: inline-block;
-   color: var(--tint);
+   color: var(--cigany);
    height: auto;
    top: 14px;
-   left: 70px;
+   left: 90px;
    background-color: transparent;
 }
 
