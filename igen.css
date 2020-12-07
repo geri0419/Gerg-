@@ -25,7 +25,7 @@
    z-index: 1000;
    position: fixed;
    display: inline-block;
-   color: var(--tint);
+   color: var(--text-normal);
    height: auto;
    top: 14px;
    left: 12px;
