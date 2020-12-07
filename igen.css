@@ -20,12 +20,12 @@
 }
 
 .wordmark-2iDDfm::before {
-   content: 'fritata';
+   content: 'Etanimal';
    font-size: 14px;
    z-index: 1000;
    position: fixed;
    display: inline-block;
-   color: var(--text-normal);
+   color: var(--tint);
    height: auto;
    top: 14px;
    left: 12px;
@@ -33,7 +33,7 @@
 }
 
 .wordmark-2iDDfm::after {
-   content: 'gay';
+   content: 'cigány';
    font-size: 14px;
    z-index: 1000;
    position: fixed;
